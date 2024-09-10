@@ -1,4 +1,4 @@
-![logo](https://github.com/Parthajitkhan1234/Data_Analysis_Projects/blob/main/Gitbanner.png)
+![logo](https://github.com/Parthajitkhan1234/Parthajitkhan1234/blob/main/Gitbanner.png)
 <h1 align="center">Hi 👋, I'm Parthajit Khan</h1>
 <h3 align="center">Aspiring Data Analyst/Business Analyst/Data Scientist</h3>
 
